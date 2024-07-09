@@ -1,3 +1,7 @@
 Práctica utilizando en conjunto de reportes de fugas de agua que nos proporciona el Gobierno de la Ciudad de México, que abarca desde el año 2012, opté por limpiarla, utilizando una macro un par de macros en excel, una enfocada en 
 la limpieza de la base de datos y otra enfocada en el reemplazo de algunos valores que estaban mal escritos, utilizando el objeto diccionario. Posteriormente normalizarla e ingestar la base en Power BI, crear el modelado de los datos
 y crear una visualización interactiva de los distintos tipos de reportes de agua que hay en la CDMX
+
+URL DEl DATASET: https://datos.cdmx.gob.mx/dataset/reportes-de-agua
+
+El conjunto de datos tiene alrededor de 450,000 filas de datos.
